@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72352580090",
+    "firebase_url": "https://fir-flutterlearning.firebaseio.com",
+    "project_id": "fir-flutterlearning",
+    "storage_bucket": "fir-flutterlearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72352580090:android:11501a98868442845de443",
+        "android_client_info": {
+          "package_name": "org.vageeshgn.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72352580090-1vb0fqo6nd4lvnq9ovhfrg9qp7gophqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNPHgIXrU4o5i406rzvfBhXI1Pqw7IYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72352580090-1vb0fqo6nd4lvnq9ovhfrg9qp7gophqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
